@@ -10,7 +10,7 @@ COPY --from=builder /tmp/autoscaler /ko-app/autoscaler
 LABEL \
       com.redhat.component="openshift-serverless-1-tech-preview-serving-autoscaler-rhel8-container" \
       name="openshift-serverless-1-tech-preview/serving-autoscaler-rhel8" \
-      version="v0.10.0" \
+      version="v0.10.1" \
       summary="Red Hat OpenShift Serverless 1 Serving Autoscaler" \
       maintainer="serverless-support@redhat.com" \
       description="Red Hat OpenShift Serverless 1 Serving Autoscaler" \
