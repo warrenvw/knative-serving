@@ -1,0 +1,6 @@
+---
+results:
+  delivery_types:
+    email:
+      - wvanwinc@redhat.com
+      - ocf-qe@redhat.com
